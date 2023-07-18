@@ -1,4 +1,4 @@
-baseURL = 'http://www.gbdmf.com'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://www.gbdmf.com/blog/'
+languageCode = 'zh-cn'
+title = '😄'
 theme = 'ananke'
