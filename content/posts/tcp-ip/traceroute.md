@@ -7,6 +7,8 @@ tags: ["tcp","ip"]
 
 # Traceroute 程序
 
+![TCP-IP-1-1.png](TCP-IP-1-1.png)
+
 由 VanJacobson 编写的 Traceroute 程序是一个能更深入探索 TCP/IP 协议的方便可用的工具。
 尽管不能保证从源端发往目的端的两份连续的 IP 数据报具有相同的路由，但是大多数情况下
 是这样的。Traceroute 程序可以让我们看到 IP 数据报从一台主机传到另一台主机所经过的路由。
