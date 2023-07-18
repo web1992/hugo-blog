@@ -3,6 +3,9 @@ languageCode = 'zh-cn'
 title = '😄'
 theme = 'ananke'
 
+[taxonomies]
+  tag = "tags
+
 [menu]
 
   [[menu.main]]
