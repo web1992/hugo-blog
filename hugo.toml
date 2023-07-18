@@ -2,3 +2,15 @@ baseURL = 'https://www.gbdmf.com/blog/'
 languageCode = 'zh-cn'
 title = '😄'
 theme = 'ananke'
+
+[menu]
+
+  [[menu.main]]
+    name = "文章"
+    url = "posts/"
+    weight = 10
+	
+  [[menu.main]]
+    name = "标签"
+    url = "tags/"
+    weight = 10
