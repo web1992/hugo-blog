@@ -4,8 +4,7 @@ title = '😄'
 theme = 'ananke'
 
 [taxonomies]
-
-  tag = "tags
+  tag = "tags"
 
 [menu]
 
