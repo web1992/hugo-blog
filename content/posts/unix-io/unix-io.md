@@ -1,3 +1,10 @@
+---
+title: "I/O 复用 select 和 poll 函数"
+date: 2023-07-16T22:32:04+08:00
+draft: false
+tags: ["unix","IO","select","poll"]
+---
+
 # 第6章 I/O 复用 select 和 poll 函数
 
 关键字：
